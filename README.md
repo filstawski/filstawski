@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=180&section=header&text=Hey,%20I'm%20Filip&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=founder%20·%20developer%20·%20%F0%9F%87%B5%F0%9F%87%B1&descAlignY=58&descSize=16" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=180&section=header&text=Hey,%20I'm%20Filip&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=founder%20·%20developer%20·%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%A9%F0%9F%87%AA&descAlignY=58&descSize=16" width="100%" alt="header" />
 
 <a href="https://github.com/filstawski">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=64748B&center=true&vCenter=true&width=520&lines=building+Surdic+IT;AI+automation+that+ships+real+work;writing+code+since+2018;TypeScript+all+the+way+down" alt="typing" />
@@ -19,6 +19,7 @@
 
 ### 👋 About me
 
+- 🇵🇱 🇩🇪 Polish, based in Germany
 - 🚀 Founder of [**Surdic IT**](https://surdic.com): we build custom AI automation for businesses, with agents, workflows and integrations that quietly run the back office
 - ⌨️ Writing code since **2018**, full-stack, from the database to the button
 - 🤖 Experienced with **Claude Code** and **Codex**, and just as comfortable writing it all by hand
