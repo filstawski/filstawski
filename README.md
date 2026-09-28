@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=180&section=header&text=Hey,%20I'm%20Filip&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=full-stack%20developer%20·%20Germany&descAlignY=58&descSize=16" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=180&section=header&text=Hey,%20I'm%20Filip&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=founder%20of%20Surdic%20IT%20·%20full-stack%20developer%20·%20Germany&descAlignY=58&descSize=16" width="100%" alt="header" />
 
 <a href="https://github.com/filstawski">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=64748B&center=true&vCenter=true&width=520&lines=TypeScript+all+the+way+down;Next.js+%C2%B7+React+%C2%B7+Tailwind+%C2%B7+Prisma;small+tools+that+remove+friction;writing+code+since+2018" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=64748B&center=true&vCenter=true&width=520&lines=founder+%40+Surdic+IT;TypeScript+all+the+way+down;Next.js+%C2%B7+React+%C2%B7+Tailwind+%C2%B7+Prisma;small+tools+that+remove+friction;writing+code+since+2018" alt="typing" />
 </a>
 
 <br />
@@ -19,9 +19,11 @@
 
 ### 👋 About me
 
-- 🇩🇪 Based in **Germany**, building things at [**@surdic-it**](https://github.com/surdic-it)
+- 🚀 Founder of [**Surdic IT**](https://surdic.com) ([@surdic-it](https://github.com/surdic-it)), where I turn ideas into products and run the business side too
+- 🇩🇪 Based in **Germany**
 - ⌨️ Writing code since **2018**, mostly **full-stack web**, typed from the database to the button
 - 🧱 Comfortable across the whole stack: UI, APIs, databases, auth, infra and deployment
+- 💼 Equally at home talking to clients, scoping projects and shipping them end to end
 - 🛠️ I like small, sharp tools that remove everyday friction
 - 🤖 Experienced with **Claude Code** and **Codex**, and just as happy writing it all by hand
 - 📐 Opinionated about DX, type safety and keeping abstractions honest
@@ -30,7 +32,7 @@
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,swift,bash,sql&perline=10" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,java,c,cpp,cs,rust,lua,dart,swift,bash&perline=15" alt="languages" />
 </p>
 
 **Frontend**
