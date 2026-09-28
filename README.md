@@ -19,11 +19,18 @@
 
 ### 👋 About me
 
-- 🇵🇱 🇩🇪 Polish, based in Germany
 - 🚀 Founder of [**Surdic IT**](https://surdic.com): we build custom AI automation for businesses, with agents, workflows and integrations that quietly run the back office
+- 🌐 Running [**hematite.gg**](https://hematite.gg), my own SaaS for capturing and sharing screenshots
+- 🧩 Author of [**pumice.js**](https://www.npmjs.com/package/pumice.js), a file-system based, fully typed API framework I use in production
 - ⌨️ Writing code since **2018**, full-stack, from the database to the button
 - 🤖 Experienced with **Claude Code** and **Codex**, and just as comfortable writing it all by hand
 - 📐 Opinionated about DX, type safety and keeping abstractions honest
+
+### 🌍 Where I'm from
+
+- 🇵🇱 Polish at heart
+- 🇩🇪 Based in Germany
+- 🗣️ I speak **Polish**, **English**, **German**, **Spanish** and **Russian**
 
 ### 🧰 Stack
 
@@ -43,6 +50,7 @@
   <img src="https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" />
   <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/dnd_kit-000000?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logoColor=white" />
 </p>
 
@@ -56,6 +64,12 @@
   <img src="https://img.shields.io/badge/WebAuthn-3423A6?style=flat-square&logo=webauthn&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MJML-FF6F61?style=flat-square&logo=mjml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Handlebars-000000?style=flat-square&logo=handlebarsdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/sharp-99CC00?style=flat-square&logo=sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Octokit-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
